@@ -1,0 +1,7 @@
+#Rooms
+SINGLE Bedroom 5000/-
+DOUBLE Bedroom 10000/-
+
+QUAD Bedroom 20000/-
+TWIN Bedroom 15000/-
+QUEEN Bedroom 18000/-
